@@ -1,0 +1,5 @@
+.venv/          # virtual environment
+venv/           # virtual environment
+__pycache__/    # Python cache files
+*.pyc           # compiled Python files
+.env            # private environment variables
