@@ -50,8 +50,8 @@ After that can move to the 3 and 4 players as well, according to this, then have
 
 tic-tac-toe/
 │
-├── README.md
+├── .gitignore
 ├── main.py
-├── requirements.txt
-└── .gitignore 
+├── README.md
+└── requirements.txt
 
